@@ -1,0 +1,14 @@
+{
+  "name": "Generic deer bot name",
+  "token": "Bot token",
+
+  "admins": ["Username (without @)"],
+
+  "wiki": {
+    "languages": ["fi", "en"]
+  },
+
+  "responses": {
+    "bleat": ["bleat"]
+  }
+}

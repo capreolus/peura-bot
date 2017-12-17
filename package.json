@@ -1,0 +1,22 @@
+{
+  "name": "kaura",
+  "version": "1.0.0",
+  "description": "A friendly Telegram deer bot called Kaura",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Kaura Peura",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^1.7.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/capreolus/peura-bot"
+  },
+  "devDependencies": {
+    "mocha": "^4.0.1",
+    "sinon": "^4.0.1"
+  }
+}
